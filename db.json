@@ -1,0 +1,16 @@
+{
+  "emails": [
+    {
+      "text": "a title",
+      "id": "c716"
+    },
+    {
+      "id": "f63f",
+      "text": "Hey! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum earum expedita quia <b>nesciunt</b> soluta vero incidunt! Inventore nam ducimus iste natus. Soluta laboriosam, repellendus neque nemo porro at? Est, dolorem!"
+    },
+    {
+      "id": "cfa9",
+      "text": "<i>Hello</i>! <u>Maax</u> it snew <b>email</b>"
+    }
+  ]
+}
